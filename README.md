@@ -1,12 +1,28 @@
-- 👋 Hi, I’m Utkarsh Sharma @Utkarsh9571
-- 👀 I’m interested in robotics and back-end development.
-- 🌱 I’m currently learning JavaScript (just started a month ago).
-- 💞️ I’m looking for suggestions and next steps in this process. 
-- 📫 How to reach me, well you can send a message here, or on my email (utkarshsharma9571@gmail.com).
-- 😄 Pronouns: not into this bs but (He/Him).
-- ⚡ Fun fact: cats are intergalactic species, and they succeded in ruling everything on earth.
+# 👋 Hi, I’m Utkarsh Sharma (@Utkarsh9571)
 
-<!---
-Utkarsh9571/Utkarsh9571 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a backend-first full-stack builder evolving into a DevOps and Cloud Engineer. I architect production-ready apps with operational clarity, reproducible infrastructure, and recruiter-ready documentation.
+
+## 🔧 What I Work On
+- 🛠️ Backend APIs with Node.js, Express, Django
+- ☁️ Cloud infrastructure on AWS and GCP using Terraform
+- 🐳 Containerization with Docker and Kubernetes (EKS/GKE)
+- 🔐 Secrets management, RBAC mapping, and secure deployment pipelines
+- ⚙️ CI/CD automation with GitHub Actions and repo hygiene discipline
+
+## 📦 Open Source Contributions
+- [Filedrop App](filedrop.us-backend.space): Provisioned GKE cluster with TLS, Ingress, and backend routing
+- [Subscription Tracker](subscription-tracker.us-backend.space): Debugged EKS node group provisioning and refactored Terraform for reproducibility
+- [Other Repo](notes.us-backend.space): Added secrets injection and CI pipeline clarity
+
+## 📚 Learning Roadmap
+- Exploring Prometheus/Grafana for SRE workflows
+- Building microservices with secure, reproducible infra setups
+- Contributing to open source DevOps projects across Cloud, Platform, and Infra roles
+
+## 📫 Reach Me
+- Email: utkarshsharma9571@gmail.com
+- LinkedIn: https://www.linkedin.com/in/utkarsh-sharma-2b9110362/
+- GitHub: https://github.com/Utkarsh9571
+
+## ⚡ Fun Fact
+Cats are intergalactic species—and I deploy like one: silent, precise, and always landing on my feet.
