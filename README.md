@@ -10,8 +10,8 @@ I'm a backend-first full-stack builder evolving into a DevOps and Cloud Engineer
 - ⚙️ CI/CD automation with GitHub Actions and repo hygiene discipline
 
 ## 📦 Open Source Contributions
-- [Filedrop App]([filedrop.us-backend.space](https://github.com/Utkarsh9571/FileDrop-File-sharing-app.git)): Provisioned GKE cluster with TLS, Ingress, and backend routing
-- [Subscription Tracker]([subscription-tracker.us-backend.space](https://github.com/Utkarsh9571/Subscription-tracker.git)): Debugged EKS node group provisioning and refactored Terraform for reproducibility
+- [Filedrop App](https://github.com/Utkarsh9571/FileDrop-File-sharing-app.git): Provisioned GKE cluster with TLS, Ingress, and backend routing
+- [Subscription Tracker](https://github.com/Utkarsh9571/Subscription-tracker.git): Debugged EKS node group provisioning and refactored Terraform for reproducibility
 - [Other Repo](https://github.com/Utkarsh9571/primetrade_assignment.git): Added secrets injection and CI pipeline clarity
 
 ## 📚 Learning Roadmap
