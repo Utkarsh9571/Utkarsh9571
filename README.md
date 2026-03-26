@@ -68,6 +68,6 @@ Long-term goal: remote work for an international company, eventually settle abro
 
 ## Connect
 
-- Portfolio: *coming soon*
+- Portfolio: (https://utkarsh-portfolio-zeta-cyan.vercel.app/)
 - LinkedIn: [utkarsh-sharma-2b9110362](https://linkedin.com/in/utkarsh-sharma-2b9110362)
 - Email: utkarshsharma9571@gmail.com
