@@ -1,73 +1,121 @@
 # Hi, I'm Utkarsh Sharma 👋
 
-Self-taught Full Stack Developer & Automation Engineer from Alwar, Rajasthan, India.
+### Product Engineer building and shipping 0→1 full-stack, AI, and automation systems.
 
-Started from zero in March 2025 — no CS degree, no bootcamp. Learned by building real systems and breaking them.
+I work best on problems where the goal is clear but the technical path isn't.
 
----
+Give me a product problem, constraints, and a deadline — I'll investigate the domain, figure out the architecture, and work toward a functioning system.
 
-## What I Actually Do
-
-- Manage production VPS infrastructure — Nginx, Docker, Traefik, SSL, DNS
-- Build automation workflows on n8n — content pipelines, chatbots, lead generation
-- Deploy and maintain full-stack MERN applications on live servers
-- Self-host open-source tools — n8n, Odoo ERP, Dokploy
-- Currently learning DevOps — Docker deep dive, Kubernetes, Terraform, CI/CD
+I've worked across AI agents, ecommerce infrastructure, workflow automation, PropTech/GIS systems, production deployments, and lead-generation platforms.
 
 ---
 
-## Current Work
+## What I Do
 
-**Full Stack Developer & Automation Engineer @ GKWebTech** *(Nov 2025 – Present)*
+- Build full-stack products from idea to production
+- Design AI-assisted workflows and agentic systems
+- Turn ambiguous business requirements into working software
+- Integrate APIs, automation, and third-party platforms
+- Deploy and debug applications in production environments
+- Enter unfamiliar technical domains and learn what's required to ship
 
-Sole technical owner of production infrastructure serving 3 live websites:
-- `gkwebtech.cloud` — MERN agency website (EN/NL/DE multilingual)
-- `institute.gkwebtech.cloud` — Next.js institute website
-- `odoo.tiwariclinic.org` — Self-hosted Odoo ERP for clinic inventory
-
-Built 8+ n8n automation workflows including a multilingual SEO blog pipeline that auto-generates, translates, and publishes content in English, Dutch, and German daily.
-
-Recovered full production environment after critical Dokploy data corruption — zero data loss in 72 hours.
+I use AI aggressively as an engineering tool — for research, implementation, debugging, and iteration — while owning the architecture, decisions, testing, and final output.
 
 ---
 
-## Tech Stack
+## Selected Work
 
-**Infrastructure & DevOps**
-`VPS` `Nginx` `Docker` `Traefik` `Linux` `Dokploy` `AWS EC2` `GCP` `Terraform` `GitHub Actions`
+### 🤖 Meera — AI Sales Assistant
 
-**Automation & AI**
-`n8n` `Gemini AI` `Cloudinary` `Telegram Bot API` `Google Sheets API` `REST APIs` `Webhooks`
+Built an end-to-end conversational sales system using Next.js, TypeScript, MongoDB, and Gemini.
 
-**Backend & Full Stack**
-`Node.js` `Express.js` `MongoDB` `PostgreSQL` `React` `Next.js` `JWT Auth` `MERN Stack`
+The assistant understands buying intent, collects requirements, recommends products, and invokes structured application actions through a tool-driven architecture.
 
-**Tools**
-`Git` `GitHub` `Odoo ERP` `WordPress` `Docker Compose` `Docker Swarm`
+I also designed a feedback and correction workflow that records failed conversations and generates structured prompt-improvement suggestions for review.
 
----
+**Focus:** AI Agents · Tool Calling · Product Architecture · Full Stack
 
-## Featured Repos
-
-| Repo | What it is |
-|------|-----------|
-| [production-infrastructure](https://github.com/Utkarsh9571/production-infrastructure) | VPS setup, Traefik config, Odoo deployment, incident post-mortem |
-| [n8n-workflows](https://github.com/Utkarsh9571/n8n-workflows) | 8+ automation workflow JSONs with full documentation |
+[View Repository](https://github.com/Utkarsh9571/meera-chatbot)
 
 ---
 
-## Background
+### 📧 MailPilot AI — AI-Assisted Email Workflows
 
-M.Com graduate. Spent years preparing for government exams and exploring trading before discovering I could build a career in tech without a CS degree. Started learning in March 2025 and joined a startup as their only technical person 8 months later.
+Built an AI-powered application focused on intelligent email workflows and product-oriented automation.
 
-I learn by building real things. Every system I manage has broken at least once — and I fixed it.
+Owned the product implementation across frontend, backend, AI integration, application state, and deployment.
 
-Long-term goal: remote work for an international company, eventually settle abroad.
+**Focus:** AI Integration · Full Stack · Automation · Product Engineering
+
+[View Repository](https://github.com/Utkarsh9571/mailpilot)
 
 ---
 
-## Connect
+### 💎 Configurable Commerce & Pricing Engine
 
-- Portfolio: https://utkarsh-portfolio-zeta-cyan.vercel.app/
-- LinkedIn: [utkarsh-sharma-2b9110362](https://linkedin.com/in/utkarsh-sharma-2b9110362)
-- Email: utkarshsharma9571@gmail.com
+Engineered a custom ecommerce system supporting 650+ configurable products and 6,500+ product media assets.
+
+Worked on formula-driven pricing, product variants, variant-aware media architecture, server-side price validation, and large-scale asset processing.
+
+The challenge was not building a storefront — it was designing a system capable of representing complex product configuration and pricing rules reliably.
+
+**Focus:** System Design · Ecommerce · Data Processing · Backend Architecture
+
+[View Repository](https://github.com/Utkarsh9571/Zonirza-website)
+
+---
+
+### 🗺️ BrickBytes — GIS-Powered PropTech
+
+Worked directly with startup founders on digital real-estate visualization workflows.
+
+Learned QGIS and GeoJSON to convert township layout plans into interactive plot data, researched Mapbox-based visualization architecture, and built product experiences for real-estate developers.
+
+**Focus:** GeoJSON · QGIS · Mapbox · PropTech · Rapid Domain Learning
+
+[View Repository](https://github.com/Utkarsh9571/brickbytes-utkarsh)
+
+---
+
+### ⚙️ Production Infrastructure
+
+Managed and recovered production infrastructure across Dockerized applications, reverse proxies, DNS, SSL, and self-hosted services.
+
+Recovered a damaged Dokploy production environment and rebuilt application deployments while preserving production data.
+
+**Focus:** Docker · Linux · Traefik · VPS · Production Debugging
+
+[View Repository](https://github.com/Utkarsh9571/production-infrastructure)
+
+---
+
+### 🔄 Automation Systems
+
+Built workflow automation systems for content operations, multilingual publishing, lead workflows, and business processes.
+
+Worked with n8n, AI APIs, webhooks, Google services, and external integrations.
+
+**Focus:** n8n · APIs · Webhooks · AI Automation · Integrations
+
+[View Repository](https://github.com/Utkarsh9571/n8n-automation-workflows)
+
+---
+
+## How I Work
+
+```text
+Understand the problem
+        ↓
+Investigate the domain
+        ↓
+Design the simplest viable architecture
+        ↓
+Build
+        ↓
+Break things
+        ↓
+Debug
+        ↓
+Ship
+        ↓
+Improve from real feedback
